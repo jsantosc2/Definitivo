@@ -1,0 +1,66 @@
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/3.jpg 572,558,1112,1276,1
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/2.jpg 444,574,773,998,1 795,649,977,862,0
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/1.jpg 917,416,1532,1242,1 745,645,1008,971,0 1025,685,1408,1100,0
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/4.jpg 1272,468,1848,1219,1 1340,718,1700,1118,0 693,551,877,734,0
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Happy 41.jpg 66,43,140,113,0 166,45,233,102,0
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Happy 42.jpg 22,47,129,159,0
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Happy 43.jpg 112,73,178,137,0
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Happy 44.jpg 103,44,151,92,0
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Happy 45.jpg 132,49,208,115,0
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Happy 46.jpg 83,54,153,111,0
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Happy 47.jpg 34,44,150,162,0
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Happy 48.jpg 115,49,210,142,0
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Happy 49.jpg 169,11,216,51,0
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Sad 41.jpg 67,46,103,87,2
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Sad 42.jpg 118,49,181,111,2
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Sad 43.jpg 111,59,160,112,2
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Sad 44.jpg 99,53,142,95,2
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Sad 45.jpg 84,17,141,74,2
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Sad 46.jpg 111,60,164,111,2
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Sad 47.jpg 105,59,170,118,2
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Sad 48.jpg 71,64,169,167,2
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Sad 49.jpg 63,42,104,79,2
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Angry 47.jpg 114,64,147,101,3
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Angry 48.jpg 124,47,160,90,3
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Angry 49.jpg 129,61,164,103,3
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Angry 50.jpg 129,57,164,106,3
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Angry 51.jpg 103,45,121,66,3
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Angry 52.jpg 98,40,159,123,3
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Angry 53.jpg 161,54,230,117,3
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Angry 54.jpg 149,106,176,136,3 191,106,214,129,3 254,113,282,145,3 9,105,39,134,3 167,59,187,78,3 257,55,274,78,3 124,54,144,74,3 38,26,57,47,3 81,107,104,135,3 254,23,267,39,3
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Angry 56.jpg 114,63,134,78,3 279,62,293,77,3 193,60,210,78,3 34,67,47,82,3 38,10,50,26,3 196,14,212,31,3
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Disguist 43.jpg 104,53,152,111,4
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Disguist 44.jpg 128,35,165,71,4
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Disguist 45.jpg 66,58,178,161,4
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Disguist 46.jpg 59,81,152,185,4
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Disguist 47.jpg 96,46,132,82,4
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Disguist 48.jpg 53,69,118,138,4
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Disguist 49.jpg 536,171,766,398,4
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Fear 43.jpg 61,54,150,148,5
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Fear 44.jpg 141,21,169,62,5
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Fear 45.jpg 87,46,167,137,5
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Fear 46.jpg 29,17,136,167,5
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Fear 47.jpg 111,47,147,94,5
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Fear 48.jpg 61,15,197,183,5
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Fear 49.jpg 34,14,198,162,5
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Neutral 39.jpg 55,41,118,100,6
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Neutral 40.jpg 88,32,118,66,6
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Neutral 41.jpg 134,1,230,95,6
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Neutral 42.jpg 112,51,165,105,6
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Neutral 44.jpg 110,46,163,100,6
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Neutral 45.jpg 103,54,156,102,6
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Neutral 46.jpg 61,56,166,171,6
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Neutral 47.jpg 97,57,149,108,6
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Neutral 48.jpg 62,55,162,156,6
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Neutral 49.jpg 97,70,166,130,6
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Surprise 39.jpg 119,50,178,132,7
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Surprise 40.jpg 114,42,171,121,7
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Surprise 41.jpg 119,71,167,122,7
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Surprise 42.jpg 122,28,158,63,7
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Surprise 43.jpg 109,34,131,65,7 166,31,191,63,7
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Surprise 44.jpg 60,59,127,147,7
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Surprise 45.jpg 73,8,137,108,7
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Surprise 46.jpg 165,30,224,93,7
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Surprise 47.jpg 110,63,150,113,7
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Surprise 48.jpg 91,49,151,117,7
+/content/gdrive/MyDrive/TFG/Prueba1/TensorFlow-2.x-YOLOv3/custom_dataset/test/Surprise 49.jpg 65,46,168,165,7
